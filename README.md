@@ -1,2 +1,1 @@
-# awesome-erlang-cn
-Erlang资源大全中文版
+# Erlang资源大全中文版
