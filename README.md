@@ -3,9 +3,11 @@
 ###目录
 - [Erlang资源大全中文版](#awesome-erlang-cn)
     - [包管理](#包管理)
-    - [发布管理]()
+    - [发布管理](#发布管理)
     - [web框架](#web框架)
     - [HTTP](#http)
+    - [测试](#测试)
+    - [日志](#日志)
    
 ### 包管理
 *包和依赖库的管理工具*
@@ -35,3 +37,14 @@
 * [hackney](https://github.com/benoitc/hackney) - 一个小巧的Erlang HTTP客户端.
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) - Erlang HTTP 客户端.
 * [lhttpc](https://github.com/esl/lhttpc) - 一个支持 lightweight HTTP/1.1 的客户端.
+
+## 测试 
+*测试相关的库.*
+
+* [PropEr](https://github.com/manopapad/proper) - 基于Property based testing的Erlang测试工具.
+
+## 日志相关 
+*日志相关的库.*
+
+* [lager](https://github.com/basho/lager) - 一个Erlang/OTP日志框架.
+* [logplex](https://github.com/heroku/logplex) - Heroku log router.
