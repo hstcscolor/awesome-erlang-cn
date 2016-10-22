@@ -7,17 +7,17 @@
     - [web框架](#web框架)
     - [HTTP](#HTTP)
    
-###包管理
+### 包管理
 *包和依赖库的管理工具*
 
 * [hex.pm](https://hex.pm/) - 一个Erlang生态的管理工具.
 
-###发布管理
+### 发布管理
 *发布软件的管理工具*
 
 * [relx](https://github.com/erlware/relx) - 一个release发布工具.
 
-###web框架
+### web框架
 *web开发框架*
 
 * [ChicagoBoss](https://github.com/ChicagoBoss/ChicagoBoss) - 一个从Rails获取灵感，而写的框架.
@@ -27,7 +27,7 @@
 * [Nitrogen](https://github.com/nitrogen/nitrogen) - 一个完全用Elang编写的web应用框架(包括前端，后端).
 * [Zotonic](https://github.com/zotonic/zotonic) - 高效,实时的web框架并且包括内容管理系统.
 
-###HTTP
+### HTTP
 *HTTP相关的库*
 
 * [bullet](https://github.com/ninenines/bullet) - 一个cowboy用到的小巧，高效，稳定的类似WebSockets的协议库.
