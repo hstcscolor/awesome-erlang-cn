@@ -34,4 +34,4 @@
 * [gun](https://github.com/ninenines/gun) - 支持 HTTP/1.1, SPDY 和Websocket的HTTP客户端.
 * [hackney](https://github.com/benoitc/hackney) - 一个小巧的Erlang HTTP客户端.
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) - Erlang HTTP 客户端.
- [lhttpc](https://github.com/esl/lhttpc) - 一个支持 lightweight HTTP/1.1 的客户端.
+* [lhttpc](https://github.com/esl/lhttpc) - 一个支持 lightweight HTTP/1.1 的客户端.
