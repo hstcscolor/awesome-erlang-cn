@@ -10,6 +10,10 @@
     - [日志](#日志)
     - [监控](#监控)
     - [构建工具](#构建工具)
+    - [网络](#网络)
+    - [数据库客户端](#数据库客户端)
+    - [JSON](#json)
+    - [杂项](#杂项)
    
 ### 包管理
 *包和依赖库的管理工具*
@@ -66,3 +70,27 @@
 * [rebar](https://github.com/rebar/rebar) - Erlang的构建工具,使用它可以方便的编译、测试erlang程序、内联驱动和打包Erlang发行版本.
 * [rebar3](https://github.com/rebar/rebar3) - 可以管理来自[Hex.pm](https://hex.pm/)的包. 更多查看 [rebar3.org](https://www.rebar3.org/)
 * [sync](https://github.com/rustyio/sync) - 一个开发时自动重编译的工具.
+
+## 网络
+*网络相关的库和工具*
+* [ranch](https://github.com/ninenines/ranch) - cowboy用到的TCP网络库.
+* [barrel_tcp](https://github.com/benoitc-attic/barrel_tcp) - 低延迟的TCP网络库.
+* [gen_rpc](https://github.com/priestjim/gen_rpc) - 一个Erlang-VM的RPC扩展库.
+
+
+## 数据库客户端
+*数据库客户端*
+
+* [mysql-otp](https://github.com/mysql-otp/mysql-otp) - Erlang/OTP的mysql驱动.
+* [epgsql](https://github.com/epgsql/epgsql) - PostgreSQL的Erlang驱动.
+* [boss_db](https://github.com/ErlyORM/boss_db) - 一个数据库的虚拟层，支持多种数据库.
+
+## JSON
+*Json协议相关的库*
+
+* [jiffy](https://github.com/davisp/jiffy) - 利用NIFs解析JSON.
+
+
+## 杂项
+*杂项*
+* [erlang-history](https://github.com/ferd/erlang-history) - 在Erlang的shell中加入历史记录.
