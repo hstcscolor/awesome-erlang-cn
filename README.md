@@ -8,6 +8,8 @@
     - [HTTP](#http)
     - [测试](#测试)
     - [日志](#日志)
+    - [监控](#监控)
+    - [构建工具](#构建工具)
    
 ### 包管理
 *包和依赖库的管理工具*
@@ -42,9 +44,25 @@
 *测试相关的库.*
 
 * [PropEr](https://github.com/manopapad/proper) - 基于Property based testing的Erlang测试工具.
+* [typhoon](https://github.com/zalando/typhoon) - 分布式系统的压力测试可视化工具
 
-## 日志相关 
+## 日志
 *日志相关的库.*
 
 * [lager](https://github.com/basho/lager) - 一个Erlang/OTP日志框架.
 * [logplex](https://github.com/heroku/logplex) - Heroku log router.
+
+## 监控
+*性能监控*
+
+* [entop](https://github.com/mazenharake/entop) - 一个像top命令一样的Erlang节点监控工具.
+* [eper](https://github.com/massemanet/eper) - 一个性能相关的工具集.
+* [Exometer](https://github.com/Feuerlabs/exometer) -一款监控指标的度量库，整合了folsom.
+* [folsom](https://github.com/boundary/folsom) - 一个性能度量系统.
+
+## 构建工具
+*项目构建工具.*
+
+* [rebar](https://github.com/rebar/rebar) - Erlang的构建工具,使用它可以方便的编译、测试erlang程序、内联驱动和打包Erlang发行版本.
+* [rebar3](https://github.com/rebar/rebar3) - 可以管理来自[Hex.pm](https://hex.pm/)的包. 更多查看 [rebar3.org](https://www.rebar3.org/)
+* [sync](https://github.com/rustyio/sync) - 一个开发时自动重编译的工具.
