@@ -43,6 +43,7 @@
 * [hackney](https://github.com/benoitc/hackney) - 一个小巧的Erlang HTTP客户端.
 * [ibrowse](https://github.com/cmullaparthi/ibrowse) - Erlang HTTP 客户端.
 * [lhttpc](https://github.com/esl/lhttpc) - 一个支持 lightweight HTTP/1.1 的客户端.
+* [yaws](https://github.com/klacke/yaws) - 一个高效处理动态页面的web服务器.
 
 ## 测试 
 *测试相关的库.*
@@ -90,6 +91,9 @@
 *Json协议相关的库*
 
 * [jiffy](https://github.com/davisp/jiffy) - 利用NIFs解析JSON.
+* [jsx](https://github.com/talentdeficit/jsx) - 完全用erlang编写的json解析库.
+* [jsonx](https://github.com/iskra/jsonx) - 用c语言实现解析json的erlang库.
+* [erljson_bench](https://github.com/davisp/erljson_bench) - 各个json解析库的性能对比.
 
 
 ## 杂项
