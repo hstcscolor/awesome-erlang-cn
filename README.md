@@ -100,3 +100,4 @@
 *杂项*
 
 * [erlang-history](https://github.com/ferd/erlang-history) - 在Erlang的shell中加入历史记录.
+* [kerl](https://github.com/kerl/kerl) - Erlang安装工具，能够轻松切换多个版本.
