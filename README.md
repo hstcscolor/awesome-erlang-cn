@@ -13,6 +13,7 @@
     - [网络](#网络)
     - [数据库客户端](#数据库客户端)
     - [JSON](#json)
+    - [协议](#协议)
     - [杂项](#杂项)
    
 ### 包管理
@@ -95,6 +96,12 @@
 * [jsonx](https://github.com/iskra/jsonx) - 用c语言实现解析json的erlang库.
 * [erljson_bench](https://github.com/davisp/erljson_bench) - 各个json解析库的性能对比.
 
+## 协议
+*各种协议库*
+
+* [erlang_protobuffs](https://github.com/basho/erlang_protobuffs) - riak数据库在用的protobuf库,支持rebar.
+* [gpb](https://github.com/tomas-abrahamsson/gpb) - 对rebar3支持非常好的protobuf库.
+* [msgpack-erlang](https://github.com/msgpack/msgpack-erlang) - MessagePack库.
 
 ## 杂项
 *杂项*
