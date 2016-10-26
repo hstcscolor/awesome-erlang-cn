@@ -71,7 +71,7 @@
 
 * [rebar](https://github.com/rebar/rebar) - Erlang的构建工具,使用它可以方便的编译、测试erlang程序、内联驱动和打包Erlang发行版本.
 * [rebar3](https://github.com/rebar/rebar3) - 可以管理来自[Hex.pm](https://hex.pm/)的包. 更多查看 [rebar3.org](https://www.rebar3.org/)
-* [sync](https://github.com/rustyio/sync) - 一个开发时自动重编译的工具.
+* [erlang.mk](https://github.com/ninenines/erlang.mk) - erlang的makefile.
 
 ## 网络
 *网络相关的库和工具*
@@ -108,3 +108,4 @@
 
 * [erlang-history](https://github.com/ferd/erlang-history) - 在Erlang的shell中加入历史记录.
 * [kerl](https://github.com/kerl/kerl) - Erlang安装工具，能够轻松切换多个版本.
+* [sync](https://github.com/rustyio/sync) - 一个开发时自动重编译的工具.
