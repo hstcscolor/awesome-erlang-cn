@@ -14,6 +14,7 @@
     - [数据库客户端](#数据库客户端)
     - [JSON](#json)
     - [协议](#协议)
+    - [开发工具](#开发工具)
     - [杂项](#杂项)
    
 ### 包管理
@@ -102,6 +103,10 @@
 * [erlang_protobuffs](https://github.com/basho/erlang_protobuffs) - riak数据库在用的protobuf库,支持rebar.
 * [gpb](https://github.com/tomas-abrahamsson/gpb) - 对rebar3支持非常好的protobuf库.
 * [msgpack-erlang](https://github.com/msgpack/msgpack-erlang) - MessagePack库.
+
+## 开发工具
+*开发工具*
+* [vimerl]() - 编写erlang的vim插件.
 
 ## 杂项
 *杂项*
