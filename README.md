@@ -106,8 +106,10 @@
 
 ## 开发工具
 *开发工具*
+
 * [vimerl](https://github.com/jimenezrick/vimerl) - 编写erlang的vim插件.
 * [intellij-erlang](https://github.com/ignatov/intellij-erlang) - intellij插件.
+* [distel](https://github.com/massemanet/distel) - emacs,erlang IDE.
 
 ## 杂项
 *杂项*
