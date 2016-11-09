@@ -16,7 +16,8 @@
     - [协议](#协议)
     - [开发工具](#开发工具)
     - [杂项](#杂项)
-   
+    - [在线教程](#在线教程)
+
 ### 包管理
 *包和依赖库的管理工具*
 
@@ -117,3 +118,10 @@
 * [erlang-history](https://github.com/ferd/erlang-history) - 在Erlang的shell中加入历史记录.
 * [kerl](https://github.com/kerl/kerl) - Erlang安装工具，能够轻松切换多个版本.
 * [sync](https://github.com/rustyio/sync) - 一个开发时自动重编译的工具.
+
+## 在线教程
+*一些免费的在线资源*
+
+* [erlang.org/docs](http://www.erlang.org/docs)官方文档！
+* [learnyousomeerlang](http://learnyousomeerlang.com/) - 非常著名的erlang在线书籍,内容非常新.
+* [tutorialspoint](https://www.tutorialspoint.com/erlang/index.htm) [tutorialspint.com](https://www.tutorialspoint.com/)网站上的erlang入门教程.
