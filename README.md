@@ -14,6 +14,7 @@
     - [数据库客户端](#数据库客户端)
     - [JSON](#json)
     - [协议](#协议)
+    - [消息队列](#消息队列)
     - [开发工具](#开发工具)
     - [杂项](#杂项)
     - [在线教程](#在线教程)
@@ -104,6 +105,15 @@
 * [erlang_protobuffs](https://github.com/basho/erlang_protobuffs) - riak数据库在用的protobuf库,支持rebar.
 * [gpb](https://github.com/tomas-abrahamsson/gpb) - 对rebar3支持非常好的protobuf库.
 * [msgpack-erlang](https://github.com/msgpack/msgpack-erlang) - MessagePack库.
+
+## 消息队列
+*消息队列服务器*
+
+* [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) - 支持多种协议AMQP, STOMP, MQTT, AMQP的消息代理服务器 
+* [emqtt](https://github.com/emqtt/emqttd) - 百万级分布式开源物联网MQTT消息服务器 
+* [vernemq](https://github.com/erlio/vernemq) - 基于Erlang/OTP的分布式MQTT消息服务器
+* [ejabberd](https://github.com/processone/ejabberd) - 著名的XMPP服务器 
+* [MongooseIM](https://github.com/esl/MongooseIM) - 高效的分布式XMPP服务器,ejabberd的优化版本
 
 ## 开发工具
 *开发工具*
