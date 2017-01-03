@@ -132,6 +132,6 @@
 ## 在线教程
 *一些免费的在线资源*
 
-* [erlang.org/docs](http://www.erlang.org/docs)官方文档！
+* [erlang.org/docs](http://www.erlang.org/docs) - 官方文档！
 * [learnyousomeerlang](http://learnyousomeerlang.com/) - 非常著名的erlang在线书籍,内容非常新.
-* [tutorialspoint](https://www.tutorialspoint.com/erlang/index.htm) [tutorialspint.com](https://www.tutorialspoint.com/)网站上的erlang入门教程.
+* [tutorialspoint](https://www.tutorialspoint.com/erlang/index.htm) - [tutorialspint.com](https://www.tutorialspoint.com/)网站上的erlang入门教程.
