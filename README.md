@@ -16,6 +16,7 @@
     - [协议](#协议)
     - [消息队列](#消息队列)
     - [开发工具](#开发工具)
+    - [调试](#调试)
     - [杂项](#杂项)
     - [在线教程](#在线教程)
 
@@ -121,6 +122,11 @@
 * [vimerl](https://github.com/jimenezrick/vimerl) - 编写erlang的vim插件.
 * [intellij-erlang](https://github.com/ignatov/intellij-erlang) - intellij插件.
 * [distel](https://github.com/massemanet/distel) - emacs,erlang IDE.
+
+## 调试 
+*调试工具*
+
+* [recon](https://github.com/ferd/recon) - 可用于生产环境的调试工具集.
 
 ## 杂项
 *杂项*
