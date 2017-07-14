@@ -134,6 +134,7 @@
 * [erlang-history](https://github.com/ferd/erlang-history) - 在Erlang的shell中加入历史记录.
 * [kerl](https://github.com/kerl/kerl) - Erlang安装工具，能够轻松切换多个版本.
 * [sync](https://github.com/rustyio/sync) - 一个开发时自动重编译的工具.
+* [tsung](https://github.com/processone/tsung) - 支持HTTP, XMPP, LDAP,等多种协议的压力测试工具.
 
 ## 在线教程
 *一些免费的在线资源*
