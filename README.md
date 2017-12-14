@@ -15,7 +15,9 @@
     - [数据库客户端](#数据库客户端)
     - [JSON](#json)
     - [协议](#协议)
+    - [消息队列](#消息队列)
     - [开发工具](#开发工具)
+    - [调试](#调试)
     - [杂项](#杂项)
     - [在线教程](#在线教程)
 
@@ -106,6 +108,15 @@
 * [gpb](https://github.com/tomas-abrahamsson/gpb) - 对rebar3支持非常好的protobuf库.
 * [msgpack-erlang](https://github.com/msgpack/msgpack-erlang) - MessagePack库.
 
+## 消息队列
+*消息队列服务器*
+
+* [rabbitmq](https://github.com/rabbitmq/rabbitmq-server) - 支持多种协议AMQP, STOMP, MQTT, AMQP的消息代理服务器 
+* [emqtt](https://github.com/emqtt/emqttd) - 百万级分布式开源物联网MQTT消息服务器 
+* [vernemq](https://github.com/erlio/vernemq) - 基于Erlang/OTP的分布式MQTT消息服务器
+* [ejabberd](https://github.com/processone/ejabberd) - 著名的XMPP服务器 
+* [MongooseIM](https://github.com/esl/MongooseIM) - 高效的分布式XMPP服务器,ejabberd的优化版本
+
 ## 开发工具
 *开发工具*
 
@@ -113,16 +124,22 @@
 * [intellij-erlang](https://github.com/ignatov/intellij-erlang) - intellij插件.
 * [distel](https://github.com/massemanet/distel) - emacs,erlang IDE.
 
+## 调试 
+*调试工具*
+
+* [recon](https://github.com/ferd/recon) - 可用于生产环境的调试工具集.
+
 ## 杂项
 *杂项*
 
 * [erlang-history](https://github.com/ferd/erlang-history) - 在Erlang的shell中加入历史记录.
 * [kerl](https://github.com/kerl/kerl) - Erlang安装工具，能够轻松切换多个版本.
 * [sync](https://github.com/rustyio/sync) - 一个开发时自动重编译的工具.
+* [tsung](https://github.com/processone/tsung) - 支持HTTP, XMPP, LDAP,等多种协议的压力测试工具.
 
 ## 在线教程
 *一些免费的在线资源*
 
-* [erlang.org/docs](http://www.erlang.org/docs)官方文档！
+* [erlang.org/docs](http://www.erlang.org/docs) - 官方文档！
 * [learnyousomeerlang](http://learnyousomeerlang.com/) - 非常著名的erlang在线书籍,内容非常新.
-* [tutorialspoint](https://www.tutorialspoint.com/erlang/index.htm) [tutorialspint.com](https://www.tutorialspoint.com/)网站上的erlang入门教程.
+* [tutorialspoint](https://www.tutorialspoint.com/erlang/index.htm) - [tutorialspint.com](https://www.tutorialspoint.com/)网站上的erlang入门教程.
