@@ -1,6 +1,5 @@
 # Erlang资源大全中文版
 ***
-
 ###目录
 - [Erlang资源大全中文版](#awesome-erlang-cn)
     - [包管理](#包管理)
